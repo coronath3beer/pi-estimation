@@ -1,4 +1,4 @@
-<div align="center"><h1>Estimating π using Monte Calro Simulation</h1> </div>
+<div align="center"><h1>Estimating π using Monte Carloo Simulation</h1> </div>
 
 <br>
 
